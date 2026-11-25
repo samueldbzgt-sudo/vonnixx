@@ -1,0 +1,457 @@
+{
+  "auditedOn": "2026-11-24",
+  "authorization": "Migração entre lojas autorizada pelo proprietário no prompt fornecido.",
+  "discovery": "9 imagens únicas da galeria (miniaturas duplicadas excluídas) e 6 artes da descrição da página exata. URLs sem sufixo de redução para solicitar o original.",
+  "items": [
+    {
+      "id": "PROD-01",
+      "kind": "galeria",
+      "order": 1,
+      "alt": "Kit de macaco hidráulico elétrico com chave elétrica, estojo, cabos, soquetes e luvas",
+      "path": "assets/images/produto/galeria/prod-01.jpg",
+      "bytes": 209307,
+      "sha256": "23ea38d2c44e496901e112dd8e374a462cbdd016a55e5854b9c8dc82f1727525",
+      "width": 1024,
+      "height": 1024,
+      "versions": [
+        {
+          "path": "assets/images/produto/galeria/prod-01-160.webp",
+          "width": 160,
+          "height": 160
+        },
+        {
+          "path": "assets/images/produto/galeria/prod-01-480.webp",
+          "width": 480,
+          "height": 480
+        },
+        {
+          "path": "assets/images/produto/galeria/prod-01-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "PROD-02",
+      "kind": "galeria",
+      "order": 2,
+      "alt": "Estojo aberto com macaco hidráulico elétrico e acessórios organizados",
+      "path": "assets/images/produto/galeria/prod-02.jpg",
+      "bytes": 146310,
+      "sha256": "03cd377fbd62817bfb1a0c2b24d4b2fbc2af5ce5dd2bbf7512b71b28d1bf2fe3",
+      "width": 1024,
+      "height": 1024,
+      "versions": [
+        {
+          "path": "assets/images/produto/galeria/prod-02-160.webp",
+          "width": 160,
+          "height": 160
+        },
+        {
+          "path": "assets/images/produto/galeria/prod-02-480.webp",
+          "width": 480,
+          "height": 480
+        },
+        {
+          "path": "assets/images/produto/galeria/prod-02-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "PROD-03",
+      "kind": "galeria",
+      "order": 3,
+      "alt": "Maleta de transporte fechada com triângulo vermelho na parte frontal",
+      "path": "assets/images/produto/galeria/prod-03.jpg",
+      "bytes": 168359,
+      "sha256": "07e9275b3e27918e150b0a3246576f271a0c60364d976cedcf85c8b9a7dd46d7",
+      "width": 1024,
+      "height": 1024,
+      "versions": [
+        {
+          "path": "assets/images/produto/galeria/prod-03-160.webp",
+          "width": 160,
+          "height": 160
+        },
+        {
+          "path": "assets/images/produto/galeria/prod-03-480.webp",
+          "width": 480,
+          "height": 480
+        },
+        {
+          "path": "assets/images/produto/galeria/prod-03-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "PROD-04",
+      "kind": "galeria",
+      "order": 4,
+      "alt": "Macaco elétrico, chave de impacto, luvas, soquetes e cabos dispostos ao lado da maleta",
+      "path": "assets/images/produto/galeria/prod-04.jpg",
+      "bytes": 110722,
+      "sha256": "f8ff9d1bcbb00584c21ed924c0df562208aad7dab1bd430ce5ef533a7870ce74",
+      "width": 1024,
+      "height": 1024,
+      "versions": [
+        {
+          "path": "assets/images/produto/galeria/prod-04-160.webp",
+          "width": 160,
+          "height": 160
+        },
+        {
+          "path": "assets/images/produto/galeria/prod-04-480.webp",
+          "width": 480,
+          "height": 480
+        },
+        {
+          "path": "assets/images/produto/galeria/prod-04-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "PROD-05",
+      "kind": "galeria",
+      "order": 5,
+      "alt": "Detalhes do macaco hidráulico com compressor e da chave elétrica do kit",
+      "path": "assets/images/produto/galeria/prod-05.jpg",
+      "bytes": 103073,
+      "sha256": "ddd7dd812ed8a9683efd738da0ccad9a0198bfd0cb362e70034fae10532aacbc",
+      "width": 1024,
+      "height": 1024,
+      "versions": [
+        {
+          "path": "assets/images/produto/galeria/prod-05-160.webp",
+          "width": 160,
+          "height": 160
+        },
+        {
+          "path": "assets/images/produto/galeria/prod-05-480.webp",
+          "width": 480,
+          "height": 480
+        },
+        {
+          "path": "assets/images/produto/galeria/prod-05-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "PROD-06",
+      "kind": "galeria",
+      "order": 6,
+      "alt": "Demonstração da chave elétrica na roda de um veículo",
+      "path": "assets/images/produto/galeria/prod-06.jpg",
+      "bytes": 115051,
+      "sha256": "952cef3707b0d71105d603ed2b92e83e900418e58f134ad62cf2480fdf56f257",
+      "width": 750,
+      "height": 750,
+      "versions": [
+        {
+          "path": "assets/images/produto/galeria/prod-06-160.webp",
+          "width": 160,
+          "height": 160
+        },
+        {
+          "path": "assets/images/produto/galeria/prod-06-480.webp",
+          "width": 480,
+          "height": 480
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "PROD-07",
+      "kind": "galeria",
+      "order": 7,
+      "alt": "Conteúdo ilustrado do kit, com ferramentas, cabos, adaptadores, luvas e bateria",
+      "path": "assets/images/produto/galeria/prod-07.jpg",
+      "bytes": 125919,
+      "sha256": "1894d016c1ecce913754a58e45ef0a7df40ef7ac676e46d6d59c5f145d491a22",
+      "width": 900,
+      "height": 900,
+      "versions": [
+        {
+          "path": "assets/images/produto/galeria/prod-07-160.webp",
+          "width": 160,
+          "height": 160
+        },
+        {
+          "path": "assets/images/produto/galeria/prod-07-480.webp",
+          "width": 480,
+          "height": 480
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "PROD-08",
+      "kind": "galeria",
+      "order": 8,
+      "alt": "Arte da origem com controles e conexão do macaco elétrico; consulte o manual para operar",
+      "path": "assets/images/produto/galeria/prod-08.jpg",
+      "bytes": 124883,
+      "sha256": "4d6937871f9f11b80fb5757b76c730ae8bb118b7b5c54750e5b9b3f87c088fc3",
+      "width": 1024,
+      "height": 1024,
+      "versions": [
+        {
+          "path": "assets/images/produto/galeria/prod-08-160.webp",
+          "width": 160,
+          "height": 160
+        },
+        {
+          "path": "assets/images/produto/galeria/prod-08-480.webp",
+          "width": 480,
+          "height": 480
+        },
+        {
+          "path": "assets/images/produto/galeria/prod-08-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "PROD-09",
+      "kind": "galeria",
+      "order": 9,
+      "alt": "Bateria extra com cabos e conectores ilustrados na galeria original",
+      "path": "assets/images/produto/galeria/prod-09.jpg",
+      "bytes": 117902,
+      "sha256": "222c3c5184253d7cc4eec2b4a1e18649a900f29bf03a63e4f1c4525fab37ef23",
+      "width": 1024,
+      "height": 1024,
+      "versions": [
+        {
+          "path": "assets/images/produto/galeria/prod-09-160.webp",
+          "width": 160,
+          "height": 160
+        },
+        {
+          "path": "assets/images/produto/galeria/prod-09-480.webp",
+          "width": 480,
+          "height": 480
+        },
+        {
+          "path": "assets/images/produto/galeria/prod-09-960.webp",
+          "width": 960,
+          "height": 960
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "ARTE-01",
+      "kind": "demonstracoes",
+      "order": 1,
+      "url": "https://cdn.shopify.com/s/files/1/0729/8934/3970/files/IMG_5341.png?v=1787365376",
+      "alt": "Apresentação do kit de emergência com macaco elétrico, chave, compressor, iluminação e cabos",
+      "path": "assets/images/produto/demonstracoes/arte-01.jpg",
+      "bytes": 298247,
+      "sha256": "fe9b7827fd2c6f17a4c04493de3176399814fd4a0f81580e1eb3dd4a53ed894d",
+      "width": 1086,
+      "height": 1449,
+      "versions": [
+        {
+          "path": "assets/images/produto/demonstracoes/arte-01-160.webp",
+          "width": 160,
+          "height": 213
+        },
+        {
+          "path": "assets/images/produto/demonstracoes/arte-01-480.webp",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "path": "assets/images/produto/demonstracoes/arte-01-960.webp",
+          "width": 960,
+          "height": 1281
+        }
+      ],
+      "active": false,
+      "holdReason": "Substituída pelas artes atualizadas fornecidas pelo proprietário."
+    },
+    {
+      "id": "ARTE-02",
+      "kind": "demonstracoes",
+      "order": 2,
+      "url": "https://cdn.shopify.com/s/files/1/0729/8934/3970/files/IMG_5349.png?v=1787365377",
+      "alt": "Equipamento e acessórios organizados na maleta.",
+      "path": "assets/images/produto/demonstracoes/arte-02.jpg",
+      "bytes": 337716,
+      "sha256": "8e6767d6284f2193d30cb3516251c12b779f4457519b736e10c1fc0bedab7f54",
+      "width": 881,
+      "height": 1786,
+      "versions": [
+        {
+          "path": "assets/images/produto/demonstracoes/arte-02-160.webp",
+          "width": 160,
+          "height": 324
+        },
+        {
+          "path": "assets/images/produto/demonstracoes/arte-02-480.webp",
+          "width": 480,
+          "height": 973
+        }
+      ],
+      "active": false,
+      "displayCrop": {
+        "id": "ARTE-02",
+        "width": 881,
+        "top": 0,
+        "height": 445,
+        "caption": "Equipamento e acessórios organizados na maleta."
+      },
+      "holdReason": "Substituída pelas artes atualizadas fornecidas pelo proprietário."
+    },
+    {
+      "id": "ARTE-03",
+      "kind": "demonstracoes",
+      "order": 3,
+      "url": "https://cdn.shopify.com/s/files/1/0729/8934/3970/files/IMG_5345.png?v=1787365376",
+      "alt": "Macaco elétrico, chave e acessórios apresentados no conjunto.",
+      "path": "assets/images/produto/demonstracoes/arte-03.jpg",
+      "bytes": 296876,
+      "sha256": "698f18f907cd11633012fb690db7cb6cb99596a489f5d6e96072c7457faa34a4",
+      "width": 879,
+      "height": 1789,
+      "versions": [
+        {
+          "path": "assets/images/produto/demonstracoes/arte-03-160.webp",
+          "width": 160,
+          "height": 326
+        },
+        {
+          "path": "assets/images/produto/demonstracoes/arte-03-480.webp",
+          "width": 480,
+          "height": 977
+        }
+      ],
+      "active": false,
+      "displayCrop": {
+        "id": "ARTE-03",
+        "width": 879,
+        "top": 309,
+        "height": 760,
+        "caption": "Macaco elétrico, chave e acessórios apresentados no conjunto."
+      },
+      "holdReason": "Substituída pelas artes atualizadas fornecidas pelo proprietário."
+    },
+    {
+      "id": "ARTE-04",
+      "kind": "demonstracoes",
+      "order": 4,
+      "url": "https://cdn.shopify.com/s/files/1/0729/8934/3970/files/IMG_5343.png?v=1787365377",
+      "alt": "Detalhe dos componentes do kit de emergência automotiva.",
+      "path": "assets/images/produto/demonstracoes/arte-04.jpg",
+      "bytes": 378820,
+      "sha256": "12ad85c586b45fd3336f0727fdff2609a37b6d1cbdcb6d789666734289a8188e",
+      "width": 887,
+      "height": 1774,
+      "versions": [
+        {
+          "path": "assets/images/produto/demonstracoes/arte-04-160.webp",
+          "width": 160,
+          "height": 320
+        },
+        {
+          "path": "assets/images/produto/demonstracoes/arte-04-480.webp",
+          "width": 480,
+          "height": 960
+        }
+      ],
+      "active": false,
+      "displayCrop": {
+        "id": "ARTE-04",
+        "width": 887,
+        "top": 978,
+        "height": 590,
+        "caption": "Detalhe dos componentes do kit de emergência automotiva."
+      },
+      "holdReason": "Substituída pelas artes atualizadas fornecidas pelo proprietário."
+    },
+    {
+      "id": "ARTE-05",
+      "kind": "demonstracoes",
+      "order": 5,
+      "url": "https://cdn.shopify.com/s/files/1/0729/8934/3970/files/IMG_5347.png?v=1787365376",
+      "alt": "Produto e acessórios da oferta.",
+      "path": "assets/images/produto/demonstracoes/arte-05.jpg",
+      "bytes": 319795,
+      "sha256": "1049d6602a64e866672a0229d132b5a9a3c1bd75c5a849e6671121d9ee2a4f71",
+      "width": 1024,
+      "height": 1536,
+      "versions": [
+        {
+          "path": "assets/images/produto/demonstracoes/arte-05-160.webp",
+          "width": 160,
+          "height": 240
+        },
+        {
+          "path": "assets/images/produto/demonstracoes/arte-05-480.webp",
+          "width": 480,
+          "height": 720
+        },
+        {
+          "path": "assets/images/produto/demonstracoes/arte-05-960.webp",
+          "width": 960,
+          "height": 1440
+        }
+      ],
+      "active": false,
+      "displayCrop": {
+        "id": "ARTE-05",
+        "width": 1024,
+        "top": 278,
+        "height": 390,
+        "caption": "Produto e acessórios da oferta."
+      },
+      "holdReason": "Substituída pelas artes atualizadas fornecidas pelo proprietário."
+    },
+    {
+      "id": "ARTE-06",
+      "kind": "demonstracoes",
+      "order": 6,
+      "url": "https://cdn.shopify.com/s/files/1/0729/8934/3970/files/IMG_5351.png?v=1787365375",
+      "alt": "Política e identidade institucional da loja de origem — não utilizada no funil",
+      "path": "assets/images/produto/demonstracoes/arte-06.png",
+      "bytes": 1268506,
+      "sha256": "00c7a3fb38249ad40f37af679d1898363275d9016434f0bf925ed38d1a434ac2",
+      "width": 1024,
+      "height": 1576,
+      "versions": [
+        {
+          "path": "assets/images/produto/demonstracoes/arte-06-160.webp",
+          "width": 160,
+          "height": 246
+        },
+        {
+          "path": "assets/images/produto/demonstracoes/arte-06-480.webp",
+          "width": 480,
+          "height": 739
+        },
+        {
+          "path": "assets/images/produto/demonstracoes/arte-06-960.webp",
+          "width": 960,
+          "height": 1478
+        }
+      ],
+      "active": false,
+      "holdReason": "Substituída pelas artes atualizadas fornecidas pelo proprietário."
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-24",
+  "source": "Arquivos fornecidos pelo proprietário na pasta descrição",
+  "backup": ".rebranding/antes-descricao-atualizada-1795494375686",
+  "order": [
+    "DESC-KIT",
+    "DESC-ANIMACAO",
+    "DESC-BENEFICIOS",
+    "DESC-BLACK-FRIDAY"
+  ],
+  "items": [
+    {
+      "id": "DESC-BENEFICIOS",
+      "source": "descrição/Kit de Emergência Automotiva Vonnix.png",
+      "path": "assets/images/produto/descricao/beneficios-vonnix.png",
+      "alt": "VONNIX: benefícios do kit de emergência automotiva, praticidade e transporte",
+      "sha256": "04afa83a06982f29ecc90a586083e5dc785055e643c5ccbe4b289381fabae256",
+      "bytes": 2145713,
+      "width": 972,
+      "height": 1618,
+      "versions": [
+        {
+          "path": "assets/images/produto/descricao/beneficios-vonnix-480.webp",
+          "width": 480,
+          "height": 799
+        },
+        {
+          "path": "assets/images/produto/descricao/beneficios-vonnix-960.webp",
+          "width": 960,
+          "height": 1598
+        }
+      ]
+    },
+    {
+      "id": "DESC-KIT",
+      "source": "descrição/Kit de Emergência Automotiva VONNIX 5 em 1.png",
+      "path": "assets/images/produto/descricao/kit-vonnix.png",
+      "alt": "Kit VONNIX 5 em 1, demonstrações, acessórios e oferta de R$ 99,90",
+      "sha256": "4c3f35aadfd70bb8054525579efe7fa5da6503cc86a8a3ab9f6c4bf4d00f0e38",
+      "bytes": 2597661,
+      "width": 948,
+      "height": 1659,
+      "versions": [
+        {
+          "path": "assets/images/produto/descricao/kit-vonnix-480.webp",
+          "width": 480,
+          "height": 840
+        },
+        {
+          "path": "assets/images/produto/descricao/kit-vonnix-948.webp",
+          "width": 948,
+          "height": 1659
+        }
+      ]
+    },
+    {
+      "id": "DESC-ANIMACAO",
+      "source": "descrição/gif_leve.webp",
+      "path": "assets/images/produto/descricao/demonstracao-animada.webp",
+      "alt": "Demonstração animada do kit de macaco hidráulico elétrico na troca de pneu",
+      "animated": true,
+      "sha256": "1ead455fa7b8edd6fae5ee9c83875b52d928e38b6c1f4a15354364b95c690450",
+      "bytes": 1015268,
+      "frames": 153,
+      "durationMs": 15300,
+      "loopCount": 0,
+      "width": 320,
+      "height": 320,
+      "versions": []
+    },
+    {
+      "id": "DESC-BLACK-FRIDAY",
+      "source": "descrição/Oferta Black Friday Vonnix.png",
+      "path": "assets/images/produto/descricao/oferta-black-friday-vonnix.png",
+      "alt": "Oferta Black Friday VONNIX: condições promocionais, pagamento, envio e atendimento",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 1711745,
+      "sha256": "d1cdf72cb3a7c420e94470d1785ed811a06cc433a195aff24628a71e22b26257",
+      "versions": [
+        {
+          "path": "assets/images/produto/descricao/oferta-black-friday-vonnix-480.webp",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "path": "assets/images/produto/descricao/oferta-black-friday-vonnix-960.webp",
+          "width": 960,
+          "height": 1280
+        }
+      ]
+    }
+  ],
+  "notApplied": [],
+  "layout": {
+    "verifiedInBrowser": true,
+    "order": [
+      "DESC-KIT",
+      "headline",
+      "subtitle",
+      "DESC-ANIMACAO",
+      "DESC-BENEFICIOS",
+      "DESC-BLACK-FRIDAY"
+    ],
+    "animationWidth": 320,
+    "cardPadding": 18,
+    "cardRadius": 16,
+    "headlineFont": "Roboto Condensed",
+    "headlineSize": 40,
+    "headlineLineHeight": 60,
+    "subtitleFont": "Arial",
+    "subtitleSize": 16,
+    "backup": ".rebranding/antes-banner-final-descricao-1795495812541"
+  }
+}
