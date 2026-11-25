@@ -1,0 +1,888 @@
+{
+  "source": {
+    "productHandle": "macaco-hidraulico-eletrico-5-em-1",
+    "app": "BK Reviews",
+    "productId": "9203183812834"
+  },
+  "summary": {
+    "count": 699,
+    "withPhotos": 31,
+    "photoReferences": 81,
+    "uniquePhotoUrls": 41,
+    "emptyNames": 0,
+    "emptyComments": 0,
+    "starOnly": 0,
+    "repeatedContents": 343,
+    "ratings": {
+      "1": 0,
+      "2": 1,
+      "3": 1,
+      "4": 0,
+      "5": 697
+    },
+    "average": 4.992846924177396
+  },
+  "files": [
+    {
+      "url": "https://bk-reviews.b-cdn.net/stores/bah6ug-ph.myshopify.com/9203001000162/7ebc654b-4de1-4ef3-a620-8ddeb4aab2e9.jpg",
+      "path": "assets/images/avaliacoes/fotos/bk-7cf98d86085df235d120a803.jpg",
+      "sha256": "7cf98d86085df235d120a80329fca3372b2bfafa863bb534b1a8f3ce5e4b8b35",
+      "bytes": 122880,
+      "hasExif": true,
+      "width": 812,
+      "height": 1080,
+      "versions": [
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-7cf98d86085df235d120a803-160.webp",
+          "width": 160,
+          "height": 213
+        },
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-7cf98d86085df235d120a803-320.webp",
+          "width": 320,
+          "height": 426
+        }
+      ]
+    },
+    {
+      "url": "https://bk-reviews.b-cdn.net/stores/bah6ug-ph.myshopify.com/9203001000162/af22559f-003f-4922-a13e-bf57823bf18f.jpg",
+      "path": "assets/images/avaliacoes/fotos/bk-c55f886477ae26613f148be8.jpg",
+      "sha256": "c55f886477ae26613f148be811275ec0da7113a833faf1981485eaaf0a8ec51f",
+      "bytes": 159278,
+      "hasExif": true,
+      "width": 810,
+      "height": 1080,
+      "versions": [
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-c55f886477ae26613f148be8-160.webp",
+          "width": 160,
+          "height": 213
+        },
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-c55f886477ae26613f148be8-320.webp",
+          "width": 320,
+          "height": 427
+        }
+      ]
+    },
+    {
+      "url": "https://bk-reviews.b-cdn.net/stores/bah6ug-ph.myshopify.com/9203001000162/88e1ed59-bcc3-486b-883e-b289b6735cdb.jpg",
+      "path": "assets/images/avaliacoes/fotos/bk-e7b9af96aecb6d1aa3facddd.jpg",
+      "sha256": "e7b9af96aecb6d1aa3facdddb107e184c7be38ea11ee7c8fe6c444d876072848",
+      "bytes": 101586,
+      "hasExif": true,
+      "width": 608,
+      "height": 1080,
+      "versions": [
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-e7b9af96aecb6d1aa3facddd-160.webp",
+          "width": 160,
+          "height": 284
+        },
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-e7b9af96aecb6d1aa3facddd-320.webp",
+          "width": 320,
+          "height": 568
+        }
+      ]
+    },
+    {
+      "url": "https://bk-reviews.b-cdn.net/stores/bah6ug-ph.myshopify.com/9203001000162/ab356b49-691e-43a0-88a5-ca57e65f7703.jpg",
+      "path": "assets/images/avaliacoes/fotos/bk-eaa4ba670988ba5acfd24b9f.jpg",
+      "sha256": "eaa4ba670988ba5acfd24b9f11f2d82fb37c82245b17cf037219a76f94f3f8b8",
+      "bytes": 96541,
+      "hasExif": true,
+      "width": 608,
+      "height": 1080,
+      "versions": [
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-eaa4ba670988ba5acfd24b9f-160.webp",
+          "width": 160,
+          "height": 284
+        },
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-eaa4ba670988ba5acfd24b9f-320.webp",
+          "width": 320,
+          "height": 568
+        }
+      ]
+    },
+    {
+      "url": "https://bk-reviews.b-cdn.net/stores/bah6ug-ph.myshopify.com/9203001000162/336baa57-b502-426d-ba07-2d1c92a6fabb.jpg",
+      "path": "assets/images/avaliacoes/fotos/bk-5dd54d390d9f4dc9125ab650.jpg",
+      "sha256": "5dd54d390d9f4dc9125ab6507ae69c16f3c644fdeca1c43c8aca48a8151384a8",
+      "bytes": 84276,
+      "hasExif": true,
+      "width": 608,
+      "height": 1080,
+      "versions": [
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-5dd54d390d9f4dc9125ab650-160.webp",
+          "width": 160,
+          "height": 284
+        },
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-5dd54d390d9f4dc9125ab650-320.webp",
+          "width": 320,
+          "height": 568
+        }
+      ]
+    },
+    {
+      "url": "https://bk-reviews.b-cdn.net/stores/bah6ug-ph.myshopify.com/9203001000162/9bb90c41-a981-4804-9737-5b80a7e23038.jpg",
+      "path": "assets/images/avaliacoes/fotos/bk-acfc80be8fe2ea2f5043e85a.jpg",
+      "sha256": "acfc80be8fe2ea2f5043e85ac4bbcb84ed35f5346ad03df2c089779bff8dc54f",
+      "bytes": 92997,
+      "hasExif": true,
+      "width": 608,
+      "height": 1080,
+      "versions": [
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-acfc80be8fe2ea2f5043e85a-160.webp",
+          "width": 160,
+          "height": 284
+        },
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-acfc80be8fe2ea2f5043e85a-320.webp",
+          "width": 320,
+          "height": 568
+        }
+      ]
+    },
+    {
+      "url": "https://bk-reviews.b-cdn.net/stores/bah6ug-ph.myshopify.com/9203001000162/b9f09adb-e5cd-4b7f-bc57-e7432d3ead68.jpg",
+      "path": "assets/images/avaliacoes/fotos/bk-e097a5d679801f429246da9f.jpg",
+      "sha256": "e097a5d679801f429246da9fbb6f711a0c34d20f0f3712ee61d4de8091376e95",
+      "bytes": 88967,
+      "hasExif": true,
+      "width": 608,
+      "height": 1080,
+      "versions": [
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-e097a5d679801f429246da9f-160.webp",
+          "width": 160,
+          "height": 284
+        },
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-e097a5d679801f429246da9f-320.webp",
+          "width": 320,
+          "height": 568
+        }
+      ]
+    },
+    {
+      "url": "https://bk-reviews.b-cdn.net/imageConversion/6defcdcb-9e85-465d-b6ab-cb871c1d6d0f.jpg",
+      "path": "assets/images/avaliacoes/fotos/bk-f8476f51a5d585c5d325e1a9.jpg",
+      "sha256": "f8476f51a5d585c5d325e1a9e2f1be39192bdb31ba4353439d5a23dd98692cc2",
+      "bytes": 159303,
+      "hasExif": false,
+      "width": 720,
+      "height": 1280,
+      "versions": [
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-f8476f51a5d585c5d325e1a9-160.webp",
+          "width": 160,
+          "height": 284
+        },
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-f8476f51a5d585c5d325e1a9-320.webp",
+          "width": 320,
+          "height": 569
+        }
+      ]
+    },
+    {
+      "url": "https://bk-reviews.b-cdn.net/stores/bah6ug-ph.myshopify.com/9203001000162/5076c964-5a02-4476-a6cd-580454350da0.jpg",
+      "path": "assets/images/avaliacoes/fotos/bk-d37b28afd82e5cbfb9a10444.jpg",
+      "sha256": "d37b28afd82e5cbfb9a10444b5e45e2d8f33f8f5904a7965ebd1f471755bfa53",
+      "bytes": 102602,
+      "hasExif": true,
+      "width": 608,
+      "height": 1080,
+      "versions": [
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-d37b28afd82e5cbfb9a10444-160.webp",
+          "width": 160,
+          "height": 284
+        },
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-d37b28afd82e5cbfb9a10444-320.webp",
+          "width": 320,
+          "height": 568
+        }
+      ]
+    },
+    {
+      "url": "https://bk-reviews.b-cdn.net/stores/bah6ug-ph.myshopify.com/9203001000162/0d2a7b65-0e29-4ead-8457-8efdae1c7c9d.jpg",
+      "path": "assets/images/avaliacoes/fotos/bk-cccf5e255acb0ca771d630b9.jpg",
+      "sha256": "cccf5e255acb0ca771d630b960e2170baded3efd2bc814f99bcf28c998703b31",
+      "bytes": 101972,
+      "hasExif": true,
+      "width": 608,
+      "height": 1080,
+      "versions": [
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-cccf5e255acb0ca771d630b9-160.webp",
+          "width": 160,
+          "height": 284
+        },
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-cccf5e255acb0ca771d630b9-320.webp",
+          "width": 320,
+          "height": 568
+        }
+      ]
+    },
+    {
+      "url": "https://bk-reviews.b-cdn.net/stores/bah6ug-ph.myshopify.com/9203001000162/608f58fd-4302-4dd1-a158-1d177cbcfbbd.jpg",
+      "path": "assets/images/avaliacoes/fotos/bk-861e083bc2725bed3cc9d07b.jpg",
+      "sha256": "861e083bc2725bed3cc9d07b7cf6ac584c96adca5110edec5609ce571e2fc5c8",
+      "bytes": 138460,
+      "hasExif": true,
+      "width": 900,
+      "height": 506,
+      "versions": [
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-861e083bc2725bed3cc9d07b-160.webp",
+          "width": 160,
+          "height": 90
+        },
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-861e083bc2725bed3cc9d07b-320.webp",
+          "width": 320,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "url": "https://bk-reviews.b-cdn.net/stores/bah6ug-ph.myshopify.com/9203001000162/091b35d3-c12a-40d2-bfbc-6a7cc34cb09c.jpg",
+      "path": "assets/images/avaliacoes/fotos/bk-83b7a6c5fca170025b4e651d.jpg",
+      "sha256": "83b7a6c5fca170025b4e651d225e7d03164a7f640c9fda48dc6482ba30e34172",
+      "bytes": 133050,
+      "hasExif": true,
+      "width": 900,
+      "height": 506,
+      "versions": [
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-83b7a6c5fca170025b4e651d-160.webp",
+          "width": 160,
+          "height": 90
+        },
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-83b7a6c5fca170025b4e651d-320.webp",
+          "width": 320,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "url": "https://bk-reviews.b-cdn.net/stores/bah6ug-ph.myshopify.com/9203001000162/8bb2dd19-e534-4e97-ae33-6e3de395b9de.jpg",
+      "path": "assets/images/avaliacoes/fotos/bk-08074e47f661952729b8525b.jpg",
+      "sha256": "08074e47f661952729b8525b265782e1eb3c3430c56fbc7cf9655180524c1458",
+      "bytes": 146307,
+      "hasExif": true,
+      "width": 608,
+      "height": 1080,
+      "versions": [
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-08074e47f661952729b8525b-160.webp",
+          "width": 160,
+          "height": 284
+        },
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-08074e47f661952729b8525b-320.webp",
+          "width": 320,
+          "height": 568
+        }
+      ]
+    },
+    {
+      "url": "https://bk-reviews.b-cdn.net/stores/bah6ug-ph.myshopify.com/9203001000162/14c9dc82-6005-4b94-9c7a-6b467a28d78f.jpg",
+      "path": "assets/images/avaliacoes/fotos/bk-d26c00ca932af37e105f759e.jpg",
+      "sha256": "d26c00ca932af37e105f759eb1879327718affca368e130ace21b9019c45eb4c",
+      "bytes": 70118,
+      "hasExif": true,
+      "width": 608,
+      "height": 1080,
+      "versions": [
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-d26c00ca932af37e105f759e-160.webp",
+          "width": 160,
+          "height": 284
+        },
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-d26c00ca932af37e105f759e-320.webp",
+          "width": 320,
+          "height": 568
+        }
+      ]
+    },
+    {
+      "url": "https://bk-reviews.b-cdn.net/stores/bah6ug-ph.myshopify.com/9203001000162/46723acc-c4ab-4466-8b37-b0cbef4cb7c7.jpg",
+      "path": "assets/images/avaliacoes/fotos/bk-c70b3d1c71a137d3bbb2db33.jpg",
+      "sha256": "c70b3d1c71a137d3bbb2db33376f36c4ae4001a499bd024ca943ede5ff3dc1fc",
+      "bytes": 73460,
+      "hasExif": true,
+      "width": 608,
+      "height": 1080,
+      "versions": [
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-c70b3d1c71a137d3bbb2db33-160.webp",
+          "width": 160,
+          "height": 284
+        },
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-c70b3d1c71a137d3bbb2db33-320.webp",
+          "width": 320,
+          "height": 568
+        }
+      ]
+    },
+    {
+      "url": "https://bk-reviews.b-cdn.net/stores/bah6ug-ph.myshopify.com/9203001000162/ccce6f8b-ab4d-4b80-9593-e063ea1fd55c.jpg",
+      "path": "assets/images/avaliacoes/fotos/bk-06fa4f76c7d2d987813cd03f.jpg",
+      "sha256": "06fa4f76c7d2d987813cd03f20d56a6b48d9efd646ec0ff191900bd6ce4d82e0",
+      "bytes": 73751,
+      "hasExif": true,
+      "width": 608,
+      "height": 1080,
+      "versions": [
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-06fa4f76c7d2d987813cd03f-160.webp",
+          "width": 160,
+          "height": 284
+        },
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-06fa4f76c7d2d987813cd03f-320.webp",
+          "width": 320,
+          "height": 568
+        }
+      ]
+    },
+    {
+      "url": "https://bk-reviews.b-cdn.net/stores/bah6ug-ph.myshopify.com/9203001000162/18d6ab33-3cb8-42bb-a6a2-c9f4bb086b94.jpg",
+      "path": "assets/images/avaliacoes/fotos/bk-b660f104934f02dcc83198cb.jpg",
+      "sha256": "b660f104934f02dcc83198cbd43dc608d03535321fb56cec6686ff923b75d9c9",
+      "bytes": 94260,
+      "hasExif": true,
+      "width": 900,
+      "height": 505,
+      "versions": [
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-b660f104934f02dcc83198cb-160.webp",
+          "width": 160,
+          "height": 90
+        },
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-b660f104934f02dcc83198cb-320.webp",
+          "width": 320,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "url": "https://bk-reviews.b-cdn.net/imageConversion/2abade34-2c00-4e13-968b-3eaced6b40fc.jpg",
+      "path": "assets/images/avaliacoes/fotos/bk-033a7f40578807313908a697.jpg",
+      "sha256": "033a7f40578807313908a697b359563d56fbeb222ac1d63b31731d5be511a13b",
+      "bytes": 78650,
+      "hasExif": false,
+      "width": 640,
+      "height": 360,
+      "versions": [
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-033a7f40578807313908a697-160.webp",
+          "width": 160,
+          "height": 90
+        },
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-033a7f40578807313908a697-320.webp",
+          "width": 320,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "url": "https://bk-reviews.b-cdn.net/stores/bah6ug-ph.myshopify.com/9203001000162/b986c2ce-dd07-403a-8964-960ca07da9b8.jpg",
+      "path": "assets/images/avaliacoes/fotos/bk-81babd97c62788a77c7c67e4.jpg",
+      "sha256": "81babd97c62788a77c7c67e408102350066d741909894523a1bc200202d512f9",
+      "bytes": 78127,
+      "hasExif": true,
+      "width": 900,
+      "height": 505,
+      "versions": [
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-81babd97c62788a77c7c67e4-160.webp",
+          "width": 160,
+          "height": 90
+        },
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-81babd97c62788a77c7c67e4-320.webp",
+          "width": 320,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "url": "https://bk-reviews.b-cdn.net/stores/bah6ug-ph.myshopify.com/9203001000162/6b59ed78-dca0-4e73-b9c2-1adacdb7b78a.jpg",
+      "path": "assets/images/avaliacoes/fotos/bk-bcdc60ff1fc678c2debf0e94.jpg",
+      "sha256": "bcdc60ff1fc678c2debf0e94811bc668a79f53654df3dab030eefcbf3e8ed372",
+      "bytes": 96062,
+      "hasExif": true,
+      "width": 900,
+      "height": 505,
+      "versions": [
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-bcdc60ff1fc678c2debf0e94-160.webp",
+          "width": 160,
+          "height": 90
+        },
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-bcdc60ff1fc678c2debf0e94-320.webp",
+          "width": 320,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "url": "https://bk-reviews.b-cdn.net/stores/bah6ug-ph.myshopify.com/9203001000162/9e24ec72-5497-47f9-b978-b095e4591294.jpg",
+      "path": "assets/images/avaliacoes/fotos/bk-cb1a4e32c48847b06c4bb091.jpg",
+      "sha256": "cb1a4e32c48847b06c4bb0911e30bcbefb1ec558ea55887551ce17563a351696",
+      "bytes": 89553,
+      "hasExif": true,
+      "width": 900,
+      "height": 505,
+      "versions": [
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-cb1a4e32c48847b06c4bb091-160.webp",
+          "width": 160,
+          "height": 90
+        },
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-cb1a4e32c48847b06c4bb091-320.webp",
+          "width": 320,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "url": "https://bk-reviews.b-cdn.net/stores/bah6ug-ph.myshopify.com/9203001000162/cf06c767-308f-472b-b747-cb5e192de878.jpg",
+      "path": "assets/images/avaliacoes/fotos/bk-0b94f85260e28a47c9947fde.jpg",
+      "sha256": "0b94f85260e28a47c9947fde3701882eafed5f45bc9e647b3ed89fcf8313a3a0",
+      "bytes": 116008,
+      "hasExif": true,
+      "width": 900,
+      "height": 505,
+      "versions": [
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-0b94f85260e28a47c9947fde-160.webp",
+          "width": 160,
+          "height": 90
+        },
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-0b94f85260e28a47c9947fde-320.webp",
+          "width": 320,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "url": "https://bk-reviews.b-cdn.net/stores/bah6ug-ph.myshopify.com/9203001000162/be7a2b9b-1cd4-4cb3-83df-3c9f5e63b999.jpg",
+      "path": "assets/images/avaliacoes/fotos/bk-314e863d3382337513f64327.jpg",
+      "sha256": "314e863d3382337513f64327c18a33f170dbf6daaebff5116f78aa97f308105b",
+      "bytes": 72868,
+      "hasExif": true,
+      "width": 608,
+      "height": 1080,
+      "versions": [
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-314e863d3382337513f64327-160.webp",
+          "width": 160,
+          "height": 284
+        },
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-314e863d3382337513f64327-320.webp",
+          "width": 320,
+          "height": 568
+        }
+      ]
+    },
+    {
+      "url": "https://bk-reviews.b-cdn.net/imageConversion/79c6bfdf-5249-449d-bece-0d9dc72e56c8.jpg",
+      "path": "assets/images/avaliacoes/fotos/bk-6372ca6c4ecbefee4c32ab57.jpg",
+      "sha256": "6372ca6c4ecbefee4c32ab57d4548bee8ec3bca1856384f989fbbee24bfcc035",
+      "bytes": 110722,
+      "hasExif": true,
+      "width": 720,
+      "height": 1280,
+      "versions": [
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-6372ca6c4ecbefee4c32ab57-160.webp",
+          "width": 160,
+          "height": 284
+        },
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-6372ca6c4ecbefee4c32ab57-320.webp",
+          "width": 320,
+          "height": 569
+        }
+      ]
+    },
+    {
+      "url": "https://bk-reviews.b-cdn.net/stores/bah6ug-ph.myshopify.com/9203001000162/4d71397e-0d33-4230-89b4-9594793111b0.jpg",
+      "path": "assets/images/avaliacoes/fotos/bk-6c813cbfc74e21d7c8cc9e95.jpg",
+      "sha256": "6c813cbfc74e21d7c8cc9e957753374dfb95b7d00e1d01ca55dfd0ba91311476",
+      "bytes": 115568,
+      "hasExif": true,
+      "width": 810,
+      "height": 1080,
+      "versions": [
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-6c813cbfc74e21d7c8cc9e95-160.webp",
+          "width": 160,
+          "height": 213
+        },
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-6c813cbfc74e21d7c8cc9e95-320.webp",
+          "width": 320,
+          "height": 427
+        }
+      ]
+    },
+    {
+      "url": "https://bk-reviews.b-cdn.net/stores/bah6ug-ph.myshopify.com/9203001000162/d9711620-50af-4c99-8ed1-945093b0ff23.jpg",
+      "path": "assets/images/avaliacoes/fotos/bk-43bad511ea0ef320969dbb4f.jpg",
+      "sha256": "43bad511ea0ef320969dbb4f842513231e2265e3d1341f67dd9b1ecfd8d97b1b",
+      "bytes": 186997,
+      "hasExif": true,
+      "width": 810,
+      "height": 1080,
+      "versions": [
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-43bad511ea0ef320969dbb4f-160.webp",
+          "width": 160,
+          "height": 213
+        },
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-43bad511ea0ef320969dbb4f-320.webp",
+          "width": 320,
+          "height": 427
+        }
+      ]
+    },
+    {
+      "url": "https://bk-reviews.b-cdn.net/stores/bah6ug-ph.myshopify.com/9203001000162/af494878-6452-4bcc-8381-53c67c81a10d.jpg",
+      "path": "assets/images/avaliacoes/fotos/bk-5cde0cf411d09483acf05d9d.jpg",
+      "sha256": "5cde0cf411d09483acf05d9d27b98abb52b06c918d8598fae0e334ae53320015",
+      "bytes": 178926,
+      "hasExif": true,
+      "width": 810,
+      "height": 1080,
+      "versions": [
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-5cde0cf411d09483acf05d9d-160.webp",
+          "width": 160,
+          "height": 213
+        },
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-5cde0cf411d09483acf05d9d-320.webp",
+          "width": 320,
+          "height": 427
+        }
+      ]
+    },
+    {
+      "url": "https://bk-reviews.b-cdn.net/imageConversion/fc73c7c6-89c2-4e23-bd15-ac7892be3787.jpg",
+      "path": "assets/images/avaliacoes/fotos/bk-af874649aa2a4f595616649a.jpg",
+      "sha256": "af874649aa2a4f595616649a9f2be14fdf59cea3532808efc6224039a6173018",
+      "bytes": 162565,
+      "hasExif": false,
+      "width": 720,
+      "height": 1280,
+      "versions": [
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-af874649aa2a4f595616649a-160.webp",
+          "width": 160,
+          "height": 284
+        },
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-af874649aa2a4f595616649a-320.webp",
+          "width": 320,
+          "height": 569
+        }
+      ]
+    },
+    {
+      "url": "https://bk-reviews.b-cdn.net/stores/bah6ug-ph.myshopify.com/9203001000162/ec5274f5-3227-4b7f-bfde-594dc9d5e98d.jpg",
+      "path": "assets/images/avaliacoes/fotos/bk-8bc1748d29cfcda6a69ada59.jpg",
+      "sha256": "8bc1748d29cfcda6a69ada59b581d6597a2598fa09db32b3c02e04a46c7afe1f",
+      "bytes": 162667,
+      "hasExif": true,
+      "width": 810,
+      "height": 1080,
+      "versions": [
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-8bc1748d29cfcda6a69ada59-160.webp",
+          "width": 160,
+          "height": 213
+        },
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-8bc1748d29cfcda6a69ada59-320.webp",
+          "width": 320,
+          "height": 427
+        }
+      ]
+    },
+    {
+      "url": "https://bk-reviews.b-cdn.net/stores/bah6ug-ph.myshopify.com/9203001000162/0c2dbfb3-399a-4951-92d3-ab34f519546a.jpg",
+      "path": "assets/images/avaliacoes/fotos/bk-d9bc8243c1ac3b8679269f2d.jpg",
+      "sha256": "d9bc8243c1ac3b8679269f2d0c6de24559665cfc9aa150657b5716977565ebc3",
+      "bytes": 141709,
+      "hasExif": true,
+      "width": 810,
+      "height": 1080,
+      "versions": [
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-d9bc8243c1ac3b8679269f2d-160.webp",
+          "width": 160,
+          "height": 213
+        },
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-d9bc8243c1ac3b8679269f2d-320.webp",
+          "width": 320,
+          "height": 427
+        }
+      ]
+    },
+    {
+      "url": "https://bk-reviews.b-cdn.net/imageConversion/aaefe3a6-b110-4d0b-a724-0e48d7c93fbb.jpg",
+      "path": "assets/images/avaliacoes/fotos/bk-cc02a63fbd67437a4492b9a9.jpg",
+      "sha256": "cc02a63fbd67437a4492b9a95b66c8c07b6564044bcf429be61f185cf7b770ee",
+      "bytes": 146881,
+      "hasExif": false,
+      "width": 576,
+      "height": 1280,
+      "versions": [
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-cc02a63fbd67437a4492b9a9-160.webp",
+          "width": 160,
+          "height": 356
+        },
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-cc02a63fbd67437a4492b9a9-320.webp",
+          "width": 320,
+          "height": 711
+        }
+      ]
+    },
+    {
+      "url": "https://bk-reviews.b-cdn.net/stores/bah6ug-ph.myshopify.com/9203001000162/136444ac-891b-45be-91a9-10bb9edb5454.jpg",
+      "path": "assets/images/avaliacoes/fotos/bk-9724b815e608dffbbb3290a8.jpg",
+      "sha256": "9724b815e608dffbbb3290a803e59c537ea0f8548ef702aa0cc6ff41d32ea316",
+      "bytes": 246266,
+      "hasExif": true,
+      "width": 900,
+      "height": 678,
+      "versions": [
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-9724b815e608dffbbb3290a8-160.webp",
+          "width": 160,
+          "height": 121
+        },
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-9724b815e608dffbbb3290a8-320.webp",
+          "width": 320,
+          "height": 241
+        }
+      ]
+    },
+    {
+      "url": "https://bk-reviews.b-cdn.net/stores/bah6ug-ph.myshopify.com/9203001000162/2c50b100-508d-498c-9e1f-a974c6d9e6cc.jpg",
+      "path": "assets/images/avaliacoes/fotos/bk-4b027f7bfe43781d8f4c354f.jpg",
+      "sha256": "4b027f7bfe43781d8f4c354f37a16e9fde0a9b9410ca41d0d9c1becb6161ecfe",
+      "bytes": 104959,
+      "hasExif": true,
+      "width": 900,
+      "height": 405,
+      "versions": [
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-4b027f7bfe43781d8f4c354f-160.webp",
+          "width": 160,
+          "height": 72
+        },
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-4b027f7bfe43781d8f4c354f-320.webp",
+          "width": 320,
+          "height": 144
+        }
+      ]
+    },
+    {
+      "url": "https://bk-reviews.b-cdn.net/stores/bah6ug-ph.myshopify.com/9203001000162/8a9f6059-ddea-4fb8-bc0b-179b2591e078.jpg",
+      "path": "assets/images/avaliacoes/fotos/bk-f08159d83dec3631698b5935.jpg",
+      "sha256": "f08159d83dec3631698b5935d6407051d94fce7a3b55691a753e8a4183f625f5",
+      "bytes": 192009,
+      "hasExif": true,
+      "width": 900,
+      "height": 608,
+      "versions": [
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-f08159d83dec3631698b5935-160.webp",
+          "width": 160,
+          "height": 108
+        },
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-f08159d83dec3631698b5935-320.webp",
+          "width": 320,
+          "height": 216
+        }
+      ]
+    },
+    {
+      "url": "https://bk-reviews.b-cdn.net/stores/bah6ug-ph.myshopify.com/9203001000162/394f7e3c-c3bb-4f39-b04f-04951b1a0939.jpg",
+      "path": "assets/images/avaliacoes/fotos/bk-1731595d7fbc861931dd4bd4.jpg",
+      "sha256": "1731595d7fbc861931dd4bd4f4c47d1fef0e33a8d4ae9397e6cb658eeb4abc88",
+      "bytes": 190632,
+      "hasExif": true,
+      "width": 900,
+      "height": 653,
+      "versions": [
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-1731595d7fbc861931dd4bd4-160.webp",
+          "width": 160,
+          "height": 116
+        },
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-1731595d7fbc861931dd4bd4-320.webp",
+          "width": 320,
+          "height": 232
+        }
+      ]
+    },
+    {
+      "url": "https://bk-reviews.b-cdn.net/stores/bah6ug-ph.myshopify.com/9203001000162/d5180f79-d21e-4962-ba7f-8b718e0f4848.jpg",
+      "path": "assets/images/avaliacoes/fotos/bk-feb03d799f1e35d6c0b86086.jpg",
+      "sha256": "feb03d799f1e35d6c0b86086ea88d8ae4e544542c61ef6c1d1a1b91c24b551cb",
+      "bytes": 55037,
+      "hasExif": true,
+      "width": 608,
+      "height": 1080,
+      "versions": [
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-feb03d799f1e35d6c0b86086-160.webp",
+          "width": 160,
+          "height": 284
+        },
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-feb03d799f1e35d6c0b86086-320.webp",
+          "width": 320,
+          "height": 568
+        }
+      ]
+    },
+    {
+      "url": "https://bk-reviews.b-cdn.net/stores/bah6ug-ph.myshopify.com/9203001000162/439c9de9-a6eb-4804-8346-fe62e47690e0.jpg",
+      "path": "assets/images/avaliacoes/fotos/bk-4899fcf928d853dc298557dd.jpg",
+      "sha256": "4899fcf928d853dc298557dd5da0d0a22abfa04e8a914019cfcc5a3cfb1523bf",
+      "bytes": 48525,
+      "hasExif": true,
+      "width": 608,
+      "height": 1080,
+      "versions": [
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-4899fcf928d853dc298557dd-160.webp",
+          "width": 160,
+          "height": 284
+        },
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-4899fcf928d853dc298557dd-320.webp",
+          "width": 320,
+          "height": 568
+        }
+      ]
+    },
+    {
+      "url": "https://bk-reviews.b-cdn.net/imageConversion/2febce71-911b-4bde-b161-9a7ab50c5f68.jpg",
+      "path": "assets/images/avaliacoes/fotos/bk-25d1cc0be8181b1483d2b68d.jpg",
+      "sha256": "25d1cc0be8181b1483d2b68d67051cefb888905a3534fa215212eafd6756a057",
+      "bytes": 79614,
+      "hasExif": false,
+      "width": 720,
+      "height": 1280,
+      "versions": [
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-25d1cc0be8181b1483d2b68d-160.webp",
+          "width": 160,
+          "height": 284
+        },
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-25d1cc0be8181b1483d2b68d-320.webp",
+          "width": 320,
+          "height": 569
+        }
+      ]
+    },
+    {
+      "url": "https://bk-reviews.b-cdn.net/stores/bah6ug-ph.myshopify.com/9203001000162/8e198822-4bc9-485b-8369-b48824aeb275.jpg",
+      "path": "assets/images/avaliacoes/fotos/bk-a2d9f6f46a9bb9fe1eb384b3.jpg",
+      "sha256": "a2d9f6f46a9bb9fe1eb384b37e002ea27c61d193c633d407ecb75bd4d19bebf0",
+      "bytes": 98439,
+      "hasExif": true,
+      "width": 606,
+      "height": 1080,
+      "versions": [
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-a2d9f6f46a9bb9fe1eb384b3-160.webp",
+          "width": 160,
+          "height": 285
+        },
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-a2d9f6f46a9bb9fe1eb384b3-320.webp",
+          "width": 320,
+          "height": 570
+        }
+      ]
+    },
+    {
+      "url": "https://bk-reviews.b-cdn.net/stores/bah6ug-ph.myshopify.com/9203001000162/43580b9d-d274-44b9-9eef-a4426829cb49.jpg",
+      "path": "assets/images/avaliacoes/fotos/bk-13df95bb7cd136dffc4715a2.jpg",
+      "sha256": "13df95bb7cd136dffc4715a274f6168c37512af9765f0cebf2e7990b1bb61a08",
+      "bytes": 90315,
+      "hasExif": true,
+      "width": 608,
+      "height": 1080,
+      "versions": [
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-13df95bb7cd136dffc4715a2-160.webp",
+          "width": 160,
+          "height": 284
+        },
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-13df95bb7cd136dffc4715a2-320.webp",
+          "width": 320,
+          "height": 568
+        }
+      ]
+    },
+    {
+      "url": "https://bk-reviews.b-cdn.net/API/fabc5d0c-4952-4c2e-8156-798f3fa21f50.jpg",
+      "path": "assets/images/avaliacoes/fotos/bk-30cd66486863f7c6857f023f.jpg",
+      "sha256": "30cd66486863f7c6857f023fe7398d0b956076ef26a7ceb2d52ee25834691f0d",
+      "bytes": 159473,
+      "hasExif": true,
+      "width": 900,
+      "height": 675,
+      "versions": [
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-30cd66486863f7c6857f023f-160.webp",
+          "width": 160,
+          "height": 120
+        },
+        {
+          "path": "assets/images/avaliacoes/fotos/bk-30cd66486863f7c6857f023f-320.webp",
+          "width": 320,
+          "height": 240
+        }
+      ]
+    }
+  ]
+}
