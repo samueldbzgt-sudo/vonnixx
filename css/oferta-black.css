@@ -1,0 +1,11 @@
+/* Cronômetro HTML no espaço reservado da arte fornecida. Imagem sem alterações. */
+#oferta { scroll-margin-top: 76px; }
+.black-offer-art { position: relative; container-type: inline-size; isolation: isolate; border-radius: 16px; overflow: hidden; background: var(--brand-secondary); }
+.black-offer-art > img { display: block; width: 100%; height: auto; }
+.black-live-clock { position: absolute; top: 69.3%; left: 7%; right: 7%; width: 86%; height: 9.8%; display: flex; flex-direction: column; align-items: center; justify-content: center; color: var(--brand-white); }
+.black-live-clock p { font-size: clamp(6px,1.9cqw,10px); font-weight: 800; line-height: 1.1; margin: 0 0 .35cqw; }
+.black-clock-digits { display: flex; align-items: flex-start; justify-content: center; gap: .9cqw; }
+.black-clock-digits > div { display: flex; flex-direction: column; align-items: center; }
+.black-clock-digits b { display: block; background: var(--brand-primary); color: var(--brand-text); border-radius: 1.4cqw; font-size: clamp(18px,6cqw,30px); font-weight: 800; line-height: 1; padding: .25cqw 1.8cqw; min-width: 13cqw; text-align: center; font-variant-numeric: tabular-nums; }
+.black-clock-digits i { font-style: normal; font-size: clamp(18px,5.8cqw,28px); font-weight: 800; line-height: 1.05; }
+.black-clock-digits small { font-size: clamp(5px,1.5cqw,8px); font-weight: 700; line-height: 1.1; margin-top: .25cqw; }

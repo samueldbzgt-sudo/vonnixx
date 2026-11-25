@@ -1,0 +1,97 @@
+body.tracking-view { background: var(--brand-background); }
+.tracking-view header > div { max-width: 660px; }
+.tracking-page { width: 100%; max-width: 660px; min-height: 55vh; margin: 0 auto; padding: 24px 20px 48px; }
+.tracking-back { display: inline-flex; margin-bottom: 28px; color: var(--brand-text-secondary); font-size: 13px; text-decoration: none; }
+.tracking-back:hover { color: var(--brand-text); text-decoration: underline; }
+.tracking-search { max-width: 448px; margin: 0 auto; text-align: center; }
+.tracking-symbol { display: flex; align-items: center; justify-content: center; width: 64px; height: 64px; margin: 0 auto 20px; border-radius: 17px; color: var(--brand-primary); background: var(--brand-secondary); box-shadow: 0 10px 26px rgb(21 21 21 / 14%); }
+.tracking-symbol svg { width: 30px; height: 30px; }
+.tracking-search h1 { margin: 0; color: var(--brand-text); font-size: 27px; font-weight: 800; line-height: 1.2; letter-spacing: -.025em; }
+.tracking-subtitle { max-width: 340px; margin: 10px auto 0; color: var(--brand-text-secondary); font-size: 14px; line-height: 1.6; }
+.tracking-form { margin-top: 26px; padding: 20px; border: 1px solid var(--brand-border); border-radius: 17px; text-align: left; background: var(--brand-white); box-shadow: 0 12px 34px rgb(21 21 21 / 6%); }
+.tracking-tabs { display: flex; gap: 4px; margin-bottom: 18px; padding: 4px; border-radius: 11px; background: var(--brand-background); }
+.tracking-tab { flex: 1 1 0; min-width: 0; padding: 10px 6px; border: 0; border-radius: 8px; font-size: 13px; font-weight: 600; line-height: 1.5; color: var(--brand-text-secondary); background: transparent; cursor: pointer; }
+.tracking-tab[aria-selected="true"] { color: var(--brand-text); background: var(--brand-white); box-shadow: 0 1px 4px rgb(21 21 21 / 10%); }
+.tracking-label { display: block; margin-bottom: 8px; color: var(--brand-text-secondary); font-size: 12px; font-weight: 700; }
+.tracking-field { position: relative; margin-bottom: 12px; }
+.tracking-field > svg { position: absolute; top: 50%; left: 14px; width: 18px; height: 18px; color: var(--brand-text-secondary); transform: translateY(-50%); pointer-events: none; }
+.tracking-field input { display: block; width: 100%; min-width: 0; margin: 0; padding: 14px 14px 14px 42px; border: 1px solid var(--brand-border); border-radius: 12px; background: var(--brand-background); color: var(--brand-text); font: inherit; font-size: 16px; line-height: 1.4; }
+.tracking-field input::placeholder { color: #737373; }
+.tracking-field input:focus { border-color: var(--brand-primary); background: var(--brand-white); }
+.tracking-field input[aria-invalid="true"] { border-color: #B42318; }
+.tracking-submit, .tracking-retry { display: inline-flex; align-items: center; justify-content: center; gap: 10px; min-height: 48px; padding: 13px 20px; border: 0; border-radius: 12px; background: var(--brand-primary); color: var(--brand-text); font-size: 14px; font-weight: 800; cursor: pointer; }
+.tracking-submit { width: 100%; }
+.tracking-submit:hover, .tracking-retry:hover { background: var(--brand-primary-hover); }
+.tracking-submit:disabled { cursor: wait; opacity: .8; }
+.tracking-submit[aria-busy="true"]::before { content: ''; width: 16px; height: 16px; border: 2px solid currentColor; border-right-color: transparent; border-radius: 50%; animation: tracking-spin .8s linear infinite; }
+@keyframes tracking-spin { to { transform: rotate(360deg); } }
+.tracking-hint { margin: 14px 0 0; color: var(--brand-text-secondary); font-size: 12px; line-height: 1.6; }
+.tracking-help { margin-top: 20px; border: 1px solid var(--brand-border); border-radius: 12px; text-align: left; background: var(--brand-white); }
+.tracking-help summary { display: flex; align-items: center; gap: 9px; padding: 14px; color: var(--brand-text); font-size: 13px; font-weight: 700; cursor: pointer; }
+.tracking-help summary svg { flex: 0 0 18px; width: 18px; height: 18px; color: var(--brand-primary); }
+.tracking-help p { padding: 0 14px 14px; color: var(--brand-text-secondary); font-size: 13px; line-height: 1.7; }
+.tracking-help a, .tracking-message a { color: var(--brand-text); text-decoration: underline; text-decoration-color: var(--brand-primary); text-underline-offset: 3px; overflow-wrap: anywhere; }
+.tracking-results { margin-top: 28px; }
+.tracking-message { padding: 28px 22px; border: 1px solid var(--brand-border); border-radius: 20px; background: var(--brand-white); text-align: center; }
+.tracking-message h2 { font-size: 18px; font-weight: 800; line-height: 1.4; }
+.tracking-message p { margin-top: 8px; color: var(--brand-text-secondary); font-size: 14px; line-height: 1.7; }
+.tracking-message .tracking-retry { margin-top: 18px; }
+.tracking-order-heading { margin-bottom: 16px; font-size: 18px; font-weight: 800; }
+.tracking-order { display: flex; align-items: center; gap: 12px; width: 100%; margin: 0 0 12px; padding: 16px; border: 1px solid var(--brand-border); border-radius: 16px; background: var(--brand-white); text-align: left; cursor: pointer; }
+.tracking-order:hover { border-color: var(--brand-primary); }
+.tracking-order-icon { display: flex; align-items: center; justify-content: center; flex: 0 0 44px; height: 44px; border-radius: 12px; color: var(--brand-text); background: var(--brand-primary-soft); }
+.tracking-order-icon svg { width: 24px; height: 24px; }
+.tracking-order-body { display: flex; flex-direction: column; gap: 5px; min-width: 0; }
+.tracking-order-code { color: var(--brand-text); font-size: 15px; font-weight: 700; overflow-wrap: anywhere; }
+.tracking-order-meta { color: var(--brand-text-secondary); font-size: 12px; }
+.tracking-order-status { color: var(--brand-text); font-size: 12px; font-weight: 600; }
+.tracking-card { overflow: hidden; border: 1px solid var(--brand-border); border-radius: 20px; background: var(--brand-white); box-shadow: 0 16px 40px rgb(21 21 21 / 6%); }
+.tracking-status { display: flex; align-items: center; gap: 16px; padding: 22px; background: var(--brand-secondary); color: var(--brand-white); }
+.tracking-status-icon { display: flex; align-items: center; justify-content: center; flex: 0 0 50px; height: 50px; border: 1px solid rgb(255 255 255 / 16%); border-radius: 15px; color: var(--brand-primary); background: rgb(255 255 255 / 8%); }
+.tracking-status-icon svg { width: 26px; height: 26px; }
+.tracking-status-label { margin-bottom: 5px; font-size: 11px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; }
+.tracking-status-value { font-size: 20px; font-weight: 800; line-height: 1.3; overflow-wrap: anywhere; }
+.tracking-code-row { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 18px 22px; border-bottom: 1px solid var(--brand-border); }
+.tracking-code-label { margin-bottom: 5px; color: var(--brand-text-secondary); font-size: 11px; font-weight: 700; }
+.tracking-code { font-size: 17px; font-weight: 700; letter-spacing: .04em; overflow-wrap: anywhere; user-select: all; }
+.tracking-copy { flex: 0 0 auto; min-height: 40px; padding: 9px 14px; border: 1px solid var(--brand-border); border-radius: 9px; color: var(--brand-text); background: var(--brand-background); font-size: 12px; font-weight: 700; cursor: pointer; }
+.tracking-copy:hover { border-color: var(--brand-primary); background: var(--brand-primary-soft); }
+.tracking-delivered { padding: 16px 22px; border-bottom: 1px solid #BBF7D0; color: #166534; background: #ECFDF3; }
+.tracking-delivered h2 { font-size: 16px; font-weight: 800; }
+.tracking-delivered p { margin-top: 3px; font-size: 13px; }
+.tracking-card-section { padding: 22px; }
+.tracking-card-section + .tracking-card-section { border-top: 1px solid var(--brand-border); }
+.tracking-section-title { margin-bottom: 18px; color: var(--brand-text-secondary); font-size: 12px; font-weight: 800; }
+.tracking-steps { display: flex; align-items: flex-start; overflow-x: auto; padding-block: 2px; }
+.tracking-step { position: relative; display: flex; flex: 1 1 0; flex-direction: column; align-items: center; min-width: 68px; }
+.tracking-step + .tracking-step::before { content: ''; position: absolute; top: 16px; right: calc(50% + 17px); left: calc(-50% + 17px); height: 3px; background: var(--brand-border); }
+.tracking-step[data-done="true"]::before, .tracking-step[data-current="true"]::before { background: var(--brand-primary); }
+.tracking-step-circle { position: relative; display: flex; align-items: center; justify-content: center; width: 34px; height: 34px; border: 2px solid var(--brand-border); border-radius: 50%; background: var(--brand-white); color: var(--brand-text-secondary); font-size: 12px; font-weight: 800; }
+.tracking-step[data-done="true"] .tracking-step-circle { border-color: var(--brand-primary); background: var(--brand-primary); color: var(--brand-text); }
+.tracking-step[data-current="true"] .tracking-step-circle { border-color: var(--brand-primary); background: var(--brand-primary-soft); color: var(--brand-text); }
+.tracking-step-label { max-width: 90px; margin-top: 8px; padding: 0 3px; color: var(--brand-text-secondary); font-size: 11px; line-height: 1.5; text-align: center; overflow-wrap: anywhere; }
+.tracking-step[data-current="true"] .tracking-step-label { color: var(--brand-text); font-weight: 800; }
+.tracking-timeline { position: relative; padding-left: 32px; list-style: none; }
+.tracking-timeline::before { content: ''; position: absolute; top: 10px; bottom: 12px; left: 10px; width: 2px; background: var(--brand-border); }
+.tracking-event { position: relative; padding-bottom: 24px; }
+.tracking-event:last-child { padding-bottom: 0; }
+.tracking-event::before { content: ''; position: absolute; top: 2px; left: -31px; width: 20px; height: 20px; border: 5px solid var(--brand-white); border-radius: 50%; background: var(--brand-border); box-shadow: 0 0 0 1px var(--brand-border); }
+.tracking-event[data-current="true"]::before { background: var(--brand-primary); box-shadow: 0 0 0 1px var(--brand-primary); }
+.tracking-event-label { font-size: 14px; font-weight: 600; line-height: 1.6; overflow-wrap: anywhere; }
+.tracking-event-time { display: block; margin-top: 5px; color: var(--brand-text-secondary); font-size: 12px; }
+.tracking-no-events { color: var(--brand-text-secondary); font-size: 14px; line-height: 1.6; }
+.tracking-refresh { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px; padding: 16px 22px; border-top: 1px solid var(--brand-border); background: var(--brand-background); }
+.tracking-refresh span { color: var(--brand-text-secondary); font-size: 12px; }
+.tracking-refresh button { min-height: 36px; border: 0; border-radius: 8px; padding: 8px 10px; background: var(--brand-white); color: var(--brand-text); font-size: 12px; font-weight: 700; cursor: pointer; }
+.tracking-view footer { max-width: 660px; }
+@media(max-width:520px) {
+  .tracking-page { padding: 22px 14px 36px; }
+  .tracking-back { margin-bottom: 22px; }
+  .tracking-symbol { width: 56px; height: 56px; border-radius: 15px; }
+  .tracking-search h1 { font-size: 24px; }
+  .tracking-form { padding: 16px; }
+  .tracking-status, .tracking-code-row, .tracking-card-section, .tracking-refresh { padding: 18px; }
+  .tracking-status-value { font-size: 18px; }
+  .tracking-step-label { font-size: 10px; }
+}
+@media(prefers-reduced-motion:reduce) { .tracking-submit[aria-busy="true"]::before { animation: none; } }

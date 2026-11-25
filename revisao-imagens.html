@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+<link rel="preload" href="assets/fonts/plus-jakarta-sans-latin.woff2" as="font" type="font/woff2" crossorigin>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'none'; object-src 'none'; base-uri 'none'">
+  <title>Revisão interna de imagens | VONNIX</title>
+  <link rel="icon" href="logo%20preta.png" type="image/png">
+  <link rel="stylesheet" href="css/vonnix.css">
+  <link rel="stylesheet" href="css/revisao-imagens.css">
+  <script src="js/vonnix-config.js" defer></script>
+  <script src="js/revisao-imagens.js" defer></script>
+</head>
+<body>
+  <header><img src="logo%20preta.png" width="2172" height="724" alt="VONNIX"><p>Revisão interna de imagens</p></header>
+  <main>
+    <h1>Catálogo de imagens do Macaco Hidráulico Elétrico 5 em 1</h1>
+    <p>Uso local. As artes originais permanecem intactas. Esta página e o arquivo PENDENCIAS-IMAGENS.md não integram a página comercial.</p>
+    <p>Para substituir uma imagem, salve a nova arte no projeto e altere o campo <code>assets[ID].path</code> em <code>js/vonnix-config.js</code>. Depois da revisão, confirme <code>approved</code>. O mesmo ID atualiza a galeria, as miniaturas e a seção de detalhes.</p>
+    <p><a href="index.html">Abrir a página de vendas local</a></p>
+    <label for="imageFilter">Mostrar imagens</label>
+    <select id="imageFilter"><option value="all">Todas as imagens</option><option value="pending">Artes que aguardam correção</option><option value="updated">Novas artes aplicadas</option><option value="product">Imagens do produto</option><option value="reviews">Fotos de avaliações</option><option value="inactive">Originais fora da página comercial</option><option value="branding">Logos e pagamentos</option></select>
+    <p id="imageCount" role="status"></p>
+    <div id="imageCatalog"></div>
+  </main>
+</body>
+</html>

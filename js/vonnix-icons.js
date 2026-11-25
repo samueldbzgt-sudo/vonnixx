@@ -1,0 +1,21 @@
+/* Ícones locais preservados do projeto original. */
+window.VONNIX_ICONS = {
+  droplet:'<path d="M12 4s5.5 6 5.5 10a5.5 5.5 0 0 1-11 0c0-1.3.6-2.8 1.4-4.2"/><path d="M5 4.5l14 15"/>',
+  clock:'<circle cx="12" cy="12" r="8.5"/><path d="M12 7.5V12l3 2"/>',
+  burst:'<circle cx="12" cy="12" r="2.6"/><path d="M12 3.5v3M12 17.5v3M3.5 12h3M17.5 12h3M6.2 6.2l2 2M15.8 15.8l2 2M17.8 6.2l-2 2M8.2 15.8l-2 2"/>',
+  sparkle:'<path d="M11 3l1.4 3.8L16 8.2l-3.6 1.4L11 13.4 9.6 9.6 6 8.2l3.6-1.4z"/><path d="M17.5 14l.8 2 2 .8-2 .8-.8 2-.8-2-2-.8 2-.8z"/>',
+  bolt:'<path d="M13 3L5 13h5l-1 8 8-11h-5z"/>',
+  corn:'<path d="M12 3c3 0 5 3 5 8s-2 9-5 9-5-4-5-9 2-8 5-8z"/><path d="M12 5v14M9 9l3 1 3-1M9 13l3 1 3-1"/>',
+  film:'<rect x="3" y="8" width="18" height="11" rx="1.5"/><path d="M3 8l2-3 3 2 3-2 3 2 3-2 2 3"/>',
+  cake:'<path d="M4 20h16v-6a3 3 0 0 0-3-3H7a3 3 0 0 0-3 3z"/><path d="M8 8V6.5M12 7V5M16 8V6.5"/>',
+  monitor:'<rect x="3" y="5" width="18" height="11" rx="1.5"/><path d="M9 20h6M12 16v4"/>',
+  bowl:'<path d="M4.5 11h15a7.5 7.5 0 0 1-15 0z"/><path d="M8 11c0-2 1.6-3.2 4-3.2s4 1.2 4 3.2"/>',
+  gamepad:'<rect x="2.5" y="8" width="19" height="9" rx="4.5"/><path d="M7 11.5v3M5.5 13h3"/><circle cx="15.5" cy="12" r="1"/><circle cx="18" cy="14" r="1"/>',
+  truck:'<path d="M3 7h11v9H3zM14 10h4l3 3v3h-7z"/><circle cx="7.5" cy="17.3" r="1.4"/><circle cx="17.5" cy="17.3" r="1.4"/>',
+  candy:'<circle cx="10" cy="8" r="5"/><path d="M13.6 11.6L20 18"/>',
+  gift:'<rect x="4" y="9.5" width="16" height="10.5" rx="1.5"/><path d="M3 9.5h18M12 9.5V20M12 9.5S10.6 5 8.3 5a2 2 0 0 0 0 4M12 9.5S13.4 5 15.7 5a2 2 0 0 1 0 4"/>',
+  shield:'<path d="M12 3l7 3v5c0 4.4-3 7.4-7 8.9C8 17.4 5 14.4 5 10V6z"/><path d="M9 12l2 2 4-4"/>',
+  heart:'<path d="M12 20s-7-4.3-7-9.3A3.7 3.7 0 0 1 12 7a3.7 3.7 0 0 1 7 3.7c0 5-7 9.3-7 9.3z"/>',
+  star:'<path d="M12 3l2.5 6 6.5.5-5 4.2 1.6 6.3L12 16.8 6.4 20l1.6-6.3-5-4.2L9.5 9z"/>',
+  check:'<circle cx="12" cy="12" r="9"/><path d="M8.5 12l2.5 2.5L16 9"/>',
+};

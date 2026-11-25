@@ -1,0 +1,164 @@
+<!DOCTYPE html><html lang="pt-BR"><head>
+<meta charset="utf-8">
+<link rel="preload" href="assets/fonts/plus-jakarta-sans-latin.woff2" as="font" type="font/woff2" crossorigin>
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'none'; object-src 'none'; base-uri 'none'; form-action 'none'">
+<meta name="robots" content="noindex, nofollow">
+<link rel="icon" type="image/png" href="logo%20preta.png">
+<link rel="apple-touch-icon" href="logo%20preta.png">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Quem Somos | VONNIX</title>
+<meta name="description" content="Quem Somos da VONNIX. Atendimento: contato@vonnix.store.">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Quem Somos | VONNIX">
+<meta property="og:image" content="logo%20preta.png">
+<meta property="og:site_name" content="VONNIX">
+<meta property="og:locale" content="pt_BR">
+<meta property="og:description" content="VONNIX — Produtos que facilitam sua rotina. Atendimento, pedidos e informações da loja.">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Quem Somos | VONNIX">
+<meta name="twitter:description" content="VONNIX — Produtos que facilitam sua rotina. Atendimento, pedidos e informações da loja.">
+<meta name="twitter:image" content="logo%20preta.png">
+
+<link rel="stylesheet" href="css/theme1.css">
+
+<style>
+  html { scroll-behavior:smooth; }
+  body { background:#FFFFFF; color:var(--brand-text); }
+  body.drawer-open { overflow:hidden; }
+  .drawer-panel { width:min(88vw,380px); border-radius:0 28px 28px 0; }
+  .drawer-hero { background:radial-gradient(circle at 88% 18%,color-mix(in srgb,var(--drawer-accent,var(--brand-primary)) 34%,transparent),transparent 34%),linear-gradient(145deg,var(--brand-secondary),var(--brand-text-secondary) 72%); }
+  .drawer-link { display:flex; align-items:center; gap:12px; min-height:52px; padding:0 14px; border-radius:14px; color:var(--brand-text); font-weight:700; transition:background .18s ease,transform .18s ease; }
+  .drawer-link:hover { background:var(--brand-background); transform:translateX(2px); }
+  .drawer-icon { width:36px; height:36px; border-radius:12px; display:flex; align-items:center; justify-content:center; flex:0 0 auto; }
+  .drawer-section { padding:12px; border:1px solid var(--brand-border); border-radius:18px; background:#fff; box-shadow:0 10px 30px rgb(21 21 21 / 5%); }
+  .ugc-strip { display:grid; grid-auto-flow:column; grid-auto-columns:78%; gap:12px; overflow-x:auto; scroll-snap-type:x mandatory; padding:2px 16px 12px; margin-inline:-16px; }
+  .ugc-strip > figure { scroll-snap-align:center; }
+  .ugc-strip::-webkit-scrollbar { display:none; }
+  .benefit-glow { background:linear-gradient(145deg,#fff 0%,var(--brand-background) 100%); box-shadow:0 9px 24px rgb(21 21 21 / 5%); }
+  .no-scrollbar::-webkit-scrollbar{ display:none; }
+  .no-scrollbar{ -ms-overflow-style:none; scrollbar-width:none; }
+  details > summary { list-style:none; cursor:pointer; }
+  details > summary::-webkit-details-marker { display:none; }
+  details[open] .chev { transform: rotate(180deg); }
+  @keyframes marquee { from { transform: translateX(0); } to { transform: translateX(-50%); } }
+  .marquee-track { animation: marquee 45s linear infinite; will-change: transform; }
+  .marquee:hover .marquee-track { animation-play-state: paused; }
+  @keyframes productTickerMarquee { from { transform:translate3d(0,0,0); } to { transform:translate3d(-50%,0,0); } }
+  .product-ticker { overflow:hidden; }
+  .product-ticker-track { display:flex; width:max-content; min-width:max-content; animation:productTickerMarquee var(--ticker-duration,24s) linear infinite; will-change:transform; }
+  .product-ticker-group { display:flex; align-items:center; flex-shrink:0; }
+  .product-ticker-item { display:flex; align-items:center; gap:8px; padding:0 24px; white-space:nowrap; }
+  .product-ticker-item::after { content:'•'; margin-left:24px; color:var(--accent); }
+  .product-ticker-item svg { width:16px; height:16px; flex-shrink:0; }
+  .ic { fill:none; stroke:currentColor; stroke-width:1.8; stroke-linecap:round; stroke-linejoin:round; }
+  #stickyBar{box-shadow:0 -8px 24px rgb(21 21 21 / 9%)}
+  .sticky-price{min-width:0;flex:1;line-height:1.15}
+  .sticky-price-top{display:flex;align-items:center;gap:7px;font-size:11px;white-space:nowrap}
+  .sticky-price-top del{color:var(--brand-text-secondary)}
+  .sticky-discount{background:var(--brand-primary);color:#fff;border-radius:999px;padding:2px 7px;font-weight:800}
+  .sticky-current{color:var(--brand-text);font-size:22px;font-weight:800;white-space:nowrap;margin-top:3px}
+  .sticky-installment{font-size:11px;color:var(--brand-text);white-space:nowrap;margin-top:2px}
+  @media(max-width:359px){.sticky-price-top,.sticky-installment{font-size:9px}.sticky-current{font-size:19px}#stickyBar button{font-size:12px;padding-left:10px;padding-right:10px}}
+</style>
+<style>.footer-track-wrap{text-align:center;margin:12px 0 24px}.footer-track-button{min-height:40px;display:inline-flex;align-items:center;gap:8px;background:var(--brand-primary);color:#FFFFFF;border-radius:999px;padding:10px 20px;font-size:14px;line-height:20px;font-weight:600;text-decoration:none}.footer-track-button:focus-visible{outline:2px solid var(--brand-primary);outline-offset:3px}</style>
+<style>
+  .rating-line{min-width:0;display:flex;align-items:center;gap:clamp(4px,2vw,8px);font-size:clamp(10px,3vw,13px);line-height:20px;white-space:nowrap}
+  .rating-line .rating-stars{color:var(--brand-primary);font-size:clamp(15px,4.8vw,19px);letter-spacing:1px;white-space:nowrap}
+  .payment-viewport{width:100%;overflow:hidden;background:#fff}
+  .payment-viewport img{display:block;width:100%;height:auto}
+  .review-head{display:grid;grid-template-columns:40px 1fr auto;align-items:center;gap:10px}
+  .review-head .verified{display:flex;align-items:center;gap:3px;white-space:nowrap;font-size:12px;color:var(--brand-text-secondary)}
+
+#precoBox .text-brand{color:var(--brand-primary)}#precoBox .bg-accent{background:var(--brand-primary)}#precoBox{font-family:"Plus Jakarta Sans",system-ui,sans-serif}
+
+</style><style>.product-rating-row{white-space:nowrap;gap:clamp(4px,1.5vw,8px);font-size:clamp(10px,3vw,14px)}.product-rating-row #vendidosTxt{font-size:clamp(8px,2.5vw,11px)}</style>
+<style>.product-rating-row{white-space:nowrap;gap:clamp(4px,1.5vw,8px);font-size:clamp(10px,3vw,14px)}.product-rating-row #vendidosTxt{font-size:clamp(8px,2.5vw,11px)}</style>
+<link rel="stylesheet" href="css/oferta-black.css">
+
+<meta name="theme-color" content="#151515">
+
+<style>a.buy{display:flex;align-items:center;justify-content:center}</style><style>[data-color],[data-voltage]{border:1px solid var(--brand-border);border-radius:10px;padding:10px 20px;background:white;font-weight:600}[data-color][aria-pressed="true"],[data-voltage][aria-pressed="true"]{border:2px solid var(--brand-primary);background:var(--brand-primary-soft);padding:9px 19px}</style>
+<link rel="stylesheet" href="css/kits.css">
+
+
+<style id="selector-cutouts">#variacaoBox .kit-photo{background:transparent;gap:2px;margin-block:5px}#variacaoBox .kit-photo img{background:transparent;object-fit:contain}</style><link rel="stylesheet" href="css/vonnix.css">
+<script src="js/vonnix-config.js" defer></script>
+<script src="js/vonnix-icons.js" defer></script>
+<script src="js/vonnix.js" defer></script>
+</head>
+
+<body class="font-sans text-ink">
+<header class="sticky top-0 z-40 bg-white border-b border-line">
+  <div class="max-w-[480px] mx-auto flex items-center justify-between px-4 py-3">
+    <button id="menuBtn" aria-controls="drawer" aria-expanded="false" aria-label="Menu" class="p-1 text-brand">
+      <svg viewBox="0 0 24 24" class="ic w-6 h-6" stroke-width="2"><path d="M4 7h16M4 12h16M4 17h16"></path></svg>
+    </button>
+    <a href="index.html" class="flex items-center gap-1.5" aria-label="início">
+      <img class="brand-logo" data-brand-logo="light" src="logo%20preta.png" alt="VONNIX" width="2172" height="724" style="height:32px;width:auto;max-width:180px">
+    </a>
+    <div class="flex items-center gap-3 text-brand">
+      <a href="rastreio.html" aria-label="Rastrear pedido"><svg viewBox="0 0 24 24" class="ic w-6 h-6"><path d="M3 6h13v9H3z"></path><path d="M16 9h4l1 3v3h-5z"></path><circle cx="7" cy="18" r="1.6"></circle><circle cx="17" cy="18" r="1.6"></circle></svg></a>
+      <svg viewBox="0 0 24 24" class="ic w-6 h-6"><circle cx="11" cy="11" r="7"></circle><path d="M20 20l-4-4"></path></svg>
+    </div>
+  </div>
+</header>
+
+
+<div id="drawer" class="fixed inset-0 z-50 hidden">
+  <div class="absolute inset-0 bg-black/40" data-close=""></div>
+  <nav class="drawer-panel absolute inset-y-0 left-0 bg-page shadow-2xl flex flex-col overflow-hidden" role="dialog" aria-modal="true" aria-label="Menu da loja">
+    <div class="drawer-hero relative text-white px-5 pt-5 pb-6">
+      <button data-close="" aria-label="Fechar menu" class="absolute top-4 right-4 w-9 h-9 rounded-full border border-white/20 bg-white/10 backdrop-blur flex items-center justify-center text-lg leading-none">✕</button>
+      <div class="inline-flex items-center gap-1.5 rounded-full border border-white/15 bg-white/10 px-2.5 py-1 text-[10px] font-extrabold tracking-[.14em]">LOJA OFICIAL</div>
+      <img class="drawer-brand-logo brand-logo" data-brand-logo="dark" src="logo%20branca.png" alt="VONNIX" width="2172" height="724">
+      <p class="text-white/70 text-sm mt-1 max-w-[240px]">Produtos que facilitam sua rotina.</p>
+      <div class="mt-5 h-1 w-14 rounded-full bg-accent"></div>
+    </div>
+    <div class="flex-1 overflow-y-auto p-3 space-y-3">
+      <div class="drawer-section">
+        <a href="index.html" data-close="" class="drawer-link"><span class="drawer-icon bg-brand/10 text-brand"><svg viewBox="0 0 24 24" class="ic w-5 h-5"><path d="M4 11.5L12 5l8 6.5V20h-6v-5h-4v5H4z"></path></svg></span><span>Início</span><span class="ml-auto text-muted">›</span></a>
+        <a id="linkRastreio" href="rastreio.html" data-close="" class="drawer-link"><span class="drawer-icon bg-brand/10 text-brand"><svg viewBox="0 0 24 24" class="ic w-5 h-5"><path d="M3 7h11v9H3zM14 10h4l3 3v3h-7z"></path><circle cx="7.5" cy="17.3" r="1.4"></circle><circle cx="17.5" cy="17.3" r="1.4"></circle></svg></span><span>Rastrear pedido</span><span class="ml-auto text-muted">›</span></a>
+      </div>
+      <div class="drawer-section">
+        <p class="text-[10px] font-extrabold tracking-[.16em] text-muted px-3 pb-2">COMPRA E POLÍTICAS</p>
+        <a href="politica-frete.html" data-close="" class="drawer-link"><span>Envio e entrega</span><span class="ml-auto text-muted">›</span></a>
+        <a href="pagamento-seguro.html" data-close="" class="drawer-link"><span>Pagamento seguro</span><span class="ml-auto text-muted">›</span></a>
+        <a href="trocas-reembolso.html" data-close="" class="drawer-link"><span>Trocas e reembolso</span><span class="ml-auto text-muted">›</span></a>
+        <a href="termos-uso.html" data-close="" class="drawer-link"><span>Termos de uso</span><span class="ml-auto text-muted">›</span></a>
+      </div>
+      <div class="drawer-section">
+        <p class="text-[10px] font-extrabold tracking-[.16em] text-muted px-3 pb-2">INSTITUCIONAL</p>
+        <a href="quem-somos.html" data-close="" class="drawer-link"><span>Quem somos</span><span class="ml-auto text-muted">›</span></a>
+        <a href="index.html#faq" data-close="" class="drawer-link"><span>Dúvidas frequentes</span><span class="ml-auto text-muted">›</span></a>
+        <a href="politica-privacidade.html" data-close="" class="drawer-link"><span>Privacidade</span><span class="ml-auto text-muted">›</span></a>
+        <a href="politica-cookies.html" data-close="" class="drawer-link"><span>Cookies</span><span class="ml-auto text-muted">›</span></a>
+      </div>
+    </div>
+    <div class="m-3 mt-0 rounded-2xl bg-brandDk text-white px-4 py-4 text-sm">
+      <p class="text-[10px] font-extrabold tracking-[.16em] text-white/55 mb-2">ATENDIMENTO</p>
+      <a href="mailto:contato@vonnix.store" class="flex items-center gap-2 break-all"><svg viewBox="0 0 24 24" class="ic w-4 h-4 text-accent shrink-0"><rect x="3" y="5.5" width="18" height="13" rx="2"></rect><path d="M4 7l8 6 8-6"></path></svg> <span data-email="">contato@vonnix.store</span></a>
+    </div>
+  </nav>
+</div>
+
+<main class="max-w-[480px] mx-auto institutional-page"><a class="back-link" href="index.html">Voltar ao produto</a><h1>Quem Somos</h1><div id="policyContent"><p>A VONNIX seleciona produtos que facilitam sua rotina, trazendo mais praticidade, organização e funcionalidade para o dia a dia.</p><p>Produtos que facilitam sua rotina.</p><p>Conheça a nossa seleção na <a href="https://vonnix.store/" rel="noopener">loja oficial VONNIX</a>.</p><p>Fale com a VONNIX pelo e-mail <a href="mailto:contato@vonnix.store">contato@vonnix.store</a>.</p></div></main>
+<footer class="max-w-[480px] mx-auto bg-white border-t border-line mt-8 px-4 py-8 text-sm">
+  <div class="footer-track-wrap"><a href="rastreio.html" class="footer-track-button">Rastrear meu pedido</a></div>
+  <div class="flex items-center gap-1.5 mb-5">
+    <img class="brand-logo" data-brand-logo="dark" src="logo%20branca.png" alt="VONNIX" width="2172" height="724" style="height:32px;width:auto;max-width:180px">
+  </div>
+  <div class="mb-4"><p class="font-bold text-xs tracking-wide text-muted mb-1">ATENDIMENTO AO CLIENTE</p><a href="mailto:contato@vonnix.store" data-email="">contato@vonnix.store</a></div>
+  <div class="flex flex-wrap gap-x-4 gap-y-1 text-xs">
+    <a href="politica-frete.html">Política de Frete</a><a href="pagamento-seguro.html">Pagamento Seguro</a><a href="termos-uso.html">Termos de Uso</a><a href="trocas-reembolso.html">Trocas e Reembolso</a><a href="quem-somos.html">Quem Somos</a><a href="politica-privacidade.html">Privacidade</a><a href="politica-cookies.html">Cookies</a>
+  </div>
+  <div class="mt-4 flex items-start gap-2 bg-brand/5 border border-brand/20 rounded-xl px-3 py-3 text-xs leading-relaxed">
+    <span class="text-brand shrink-0 mt-0.5"><svg viewBox="0 0 24 24" class="ic w-4 h-4"><rect x="5" y="10.5" width="14" height="9.5" rx="2"></rect><path d="M8 10.5V7a4 4 0 0 1 8 0v3.5"></path></svg></span>
+    <p class="text-muted">A VONNIX seleciona produtos que facilitam sua rotina, trazendo mais praticidade, organização e funcionalidade para o dia a dia. <a href="https://vonnix.store/" rel="noopener">Conheça a loja VONNIX.</a></p>
+  </div>
+  <div class="mt-5 text-xs text-muted" id="empresaBox"><p class="font-semibold text-ink">VONNIX</p><p class="mt-2">© <span data-year>2026</span> VONNIX. Todos os direitos reservados.</p></div>
+</footer>
+
+
+
+</body></html>
